@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prohomish123
 - 👀 I’m interested in learning new languages...
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on webtech
+- 🌱 I’m currently working on MERN stacks
+- 💞️ I’m looking to collaborate on webdev.
 
 <!---
 Prohomish123/Prohomish123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
